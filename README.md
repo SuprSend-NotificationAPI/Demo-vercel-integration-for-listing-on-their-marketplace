@@ -1,5 +1,9 @@
 # Vercel Integration Project
 
+This project will help you get listed on [Vercel's marketplace.](https://vercel.com/marketplace) to gain more visibility for your product.
+
+![Vercel Marketplace](https://github.com/user-attachments/assets/6edc3df7-fbc3-43a5-8499-e7196e139978)
+
 This project demonstrates how to create a **custom Vercel integration** that allows users to authorize access to their **Vercel account**, select a project, and create **environment variables** for that project using **OAuth 2.0 authentication**. By providing a seamless integration with Vercel, this project showcases the ability to interact with Vercel's API, empowering developers to enhance their **continuous deployment** workflows.
 
 ## Features
